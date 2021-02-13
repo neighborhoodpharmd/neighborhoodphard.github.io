@@ -22,7 +22,7 @@ title: Neighborhood PharmD
 email: meerm.husain@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Observations on the medical-industrial complex from a community pharmacy lens.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://neighborhoodpharmd.me" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
