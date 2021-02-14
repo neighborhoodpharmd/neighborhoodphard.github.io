@@ -55,6 +55,21 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 #   - vendor/ruby/
 
 ## Extra Features of Beautifull Jekyll Copied Over
+
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+#avatar: "/assets/img/nbhd_logo.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: false
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+title-img: /assets/img/nbhd_logo.png
+
+
 # Footer
 author: "&copy Meer Husain <a href='https://creativecommons.org/licenses/by-nc-nd/4.0/'>CC BY-NC-ND 4.0</a> license"
 # Navigation Bar 
