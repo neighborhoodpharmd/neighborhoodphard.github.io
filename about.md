@@ -10,4 +10,4 @@ My goal is to deliver curated health information empowering patients, providers,
 **What's in a name?** I have over *15 years* of community pharmacy experience, most recently as a pharmacy manager. My accumulated experience interfacing with patients, providers, insurance, retail and everything in-between means that effective, purposeful communication is my bread and butter. What you'll find here is easy-to-read expert opinion on pharmacy services, influencers and digital culture.
 
 >Is it Neighborhood or [NBHD](https://www.acronymfinder.com/Neighborhood-(NBHD).html) PharmD? **Yes**
->For professional inquiries, collaboration or feedback reach me via email or social links at the bottom of the page.
+For professional inquiries, collaboration or feedback reach me via email or social links at the bottom of the page.
