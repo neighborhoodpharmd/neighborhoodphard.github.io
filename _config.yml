@@ -83,10 +83,10 @@ navbar-links:
 social-network-links:
   email: "nbhd.pharmd@gmail.com"
   twitter: nbhd_pharmd
-  reddit: nbhd_pharmd
+  #reddit: nbhd_pharmd
 
 # RSS
-rss-description: Behind-the-counter commentary on pharmacy and digital transformation
+rss-description: Informed commentary on pharmacy and digital transformation
 
 # Footer Link
 url-pretty: "neighborhoodPharmD.me"

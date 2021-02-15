@@ -11,4 +11,4 @@ My goal is to deliver curated health information empowering patients, providers,
 
 >Is it Neighborhood or [NBHD](https://www.acronymfinder.com/Neighborhood-(NBHD).html) PharmD? **Yes**
 
->For professional inquiries, collaboration or feedback reach me via email or social links at the bottom of the page.
+>For professional inquiries, collaboration or feedback reach me via email or Twitter linked below.
