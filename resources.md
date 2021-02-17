@@ -6,8 +6,6 @@ The following links have a focus on how digital media and technology are changin
 
 ### Blogs and Podcasts
 
-### Licensure and Regulation
-
 ### Evidence-based Medicine & Informed Consumerism
 
 ### Books
