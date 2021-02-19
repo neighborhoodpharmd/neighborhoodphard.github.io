@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Culture Shift in the Context of Diabetes and CGM
-#summary: How CGM convenience will further facilitate normalization of obesity, DM, and information overload/alert fatigue
-subtitle: The Double-Sided Finger-Stick of Convenience
+title: Continous Glucose Monitoring and the Price of Convenience
+#summary: What is CGM, what are the benefits and when is it advisable to forego the use of these devices in lieu of traditional finger-stick meters?
 ---
->Disclaimer: This subject matter may appear to be controversial given the vitriolic nature of fat-shaming and fat-acceptance that is rampant on the Internet these days. My perspective on the increasing prevalence, prescribing and use of continous glucose monitoring devices is based on my own observations in community pharmacy and professional opinion as a pharmacist.
+#Early adopters: tech-saavy
+#Access based on stratification of demographics
 
-Early adopters: tech-saavy
-Access based on stratification of demographics
+Recently, continous glucose monitors (CGM's) came into the public consiousness of mainstream America through a super-bowl advertisement, starring a celebrity. Dexcom launched an ad with a paid famous person for hire with the idea of combining two forms of consumer marketing:
+>1.  direct-to-consumer
+2. celebrity influencer
+
+Aside from the marketing and financial analysis, what are the repurcusions of CGM technology in the public sphere?
