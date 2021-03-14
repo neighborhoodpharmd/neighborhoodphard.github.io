@@ -1,8 +1,8 @@
 ---
 layout: page
-subtitle: Informed commentary on pharmacy culture and digital transformation
+subtitle: Informed Commentary on Pharmacy Culture
 title: About
 ---
-I'm a community pharmacist and aspiring educator. This project is a creative outlet for my observations on pharmacy practice and patient education. I have over *15 years* of community pharmacy experience, spanning pharmacy technician to pharmacist-in-charge. What you'll find here is easy-to-read expert opinion on the intersection of pharmacy practice with career mastery, productivity tools and self-improvement from a Neighborhood/[NBHD](https://www.acronymfinder.com/Neighborhood-(NBHD).html) PharmD.
+I'm a community pharmacist and sometime blogger with over *15 years* of community pharmacy experience. What you'll find at Neighborhood/[NBHD](https://www.acronymfinder.com/Neighborhood-(NBHD).html) PharmD is expert opinion on the intersection of contemporary pharmacy practice with career mastery, patient empowerment, and digital transformation.  
 
 > For inquiries, collaboration or feedback reach me via email or Twitter below.
