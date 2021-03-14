@@ -2,7 +2,7 @@
 title: Resources
 layout: page
 ---
-The following links have a focus on how digital media and technology are changing pharmacy practice and public health *(in no particular order)*. Also included are recommendations for productivity, deep work and self-developement.
+The following links focus on how digital media and technology can improve pharmacy practice, including recommendations for productivity, deep work and self-developement *(in no particular order)*. 
 
 ### Pharmacy Blogs and Podcasts
 
