@@ -11,3 +11,4 @@ Recently, continous glucose monitors (CGM's) came into the public consiousness o
 2. celebrity influencer
 
 Aside from the marketing and financial analysis, what are the repurcusions of CGM technology in the public sphere?
+

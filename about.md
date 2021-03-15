@@ -1,8 +1,8 @@
 ---
 layout: page
-subtitle: Informed Commentary on Pharmacy Culture
-title: About
+subtitle: Perspective on the Intangibles of Pharmacy Practice
+title: About NBHD PharmD
 ---
-I'm a community pharmacist and sometime blogger with over *15 years* of community pharmacy experience. What you'll find at Neighborhood/[NBHD](https://www.acronymfinder.com/Neighborhood-(NBHD).html) PharmD is expert opinion on the intersection of contemporary pharmacy practice with career mastery, patient empowerment, and digital transformation.  
+I'm a community pharmacist and sometime blogger with over *15 years* of community pharmacy experience. What you'll find at Neighborhood (NBHD) PharmD is first-hand, curated analysis on the intangible subtleties of pharmacy practice including career mastery, psychological resilience, patient empowerment, and embracing digital transformation. 
 
 > For inquiries, collaboration or feedback reach me via email or Twitter below.
