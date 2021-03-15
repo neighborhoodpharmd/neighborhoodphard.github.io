@@ -2,9 +2,7 @@
 title: Resources
 layout: page
 ---
-The following links focus on pharmacy culture, change within the industry, and their direct impact on pharmacists and patient-care. I've also included useful texts that have improved my career, including recommendations for productivity, deep learning and self-developement:
-
-### Essential Pharmacy/Industry Blogs
+### Pharmacy/Industry Blogs
 
 * Med Ed 101
 * The Happy PharmD
@@ -14,7 +12,7 @@ The following links focus on pharmacy culture, change within the industry, and t
 * Drug Channels
 * Medscape Pharmacists
 
-### Self-Development Must-Reads
+### Self-Development
 
 * Deep Work: Learn to better optimize attention as a resource
 * Black Swan: Understand statistical anamolies
